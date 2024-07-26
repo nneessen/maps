@@ -1,3 +1,3 @@
 import { User } from "./User";
-
-const user = new User();
+import { Company } from "./Company";
+import { CustomMap } from "./CustomMap";
